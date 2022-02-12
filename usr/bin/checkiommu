@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 #https://bbs.archlinux.org/viewtopic.php?id=250091
 shopt -s nullglob
 for g in /sys/kernel/iommu_groups/*; do
