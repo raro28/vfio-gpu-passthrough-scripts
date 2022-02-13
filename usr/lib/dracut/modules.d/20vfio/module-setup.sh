@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/sh
 #https://forum.level1techs.com/t/fedora-33-ultimiate-vfio-guide-for-2020-2021-wip/163814
 check() {
   return 0
